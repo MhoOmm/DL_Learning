@@ -2,3 +2,5 @@ Transformers_Fine_Tuning/NewsClassificationDemo/.env
 Transformers_Fine_Tuning/NewsClassificationDemo/MyFirstModel
 Transformers_Fine_Tuning/Robert-a_QA_SciQ/saved
 Transformers_Fine_Tuning/De-BERT_QA_SCI_Q/saved
+Transformers_Fine_Tuning/Project_HotpotQA/index.faiss
+Transformers_Fine_Tuning/Project_HotpotQA/index.pkl
