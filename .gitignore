@@ -4,3 +4,5 @@ Transformers_Fine_Tuning/Robert-a_QA_SciQ/saved
 Transformers_Fine_Tuning/De-BERT_QA_SCI_Q/saved
 Transformers_Fine_Tuning/Project_HotpotQA/index.faiss
 Transformers_Fine_Tuning/Project_HotpotQA/index.pkl
+Transformers_Fine_Tuning/Project_HotpotQA/reader_validation.zip
+Transformers_Fine_Tuning/Project_HotpotQA/reader_train.zip
