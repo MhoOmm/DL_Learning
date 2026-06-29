@@ -6,3 +6,5 @@ Transformers_Fine_Tuning/Project_HotpotQA/index.faiss
 Transformers_Fine_Tuning/Project_HotpotQA/index.pkl
 Transformers_Fine_Tuning/Project_HotpotQA/reader_validation.zip
 Transformers_Fine_Tuning/Project_HotpotQA/reader_train.zip
+Transformers_Fine_Tuning/Project_HotpotQA/Model
+Transformers_Fine_Tuning/Project_HotpotQA/.env
